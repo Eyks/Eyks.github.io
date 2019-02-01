@@ -1,0 +1,10 @@
+body { background: lightblue;
+  color: red;
+  font-size: 12pt;
+  font-verdana}
+div.a {
+  text-align: center;
+}
+h1 {
+  text-decoration: underline;
+}
